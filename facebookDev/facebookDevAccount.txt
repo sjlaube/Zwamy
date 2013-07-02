@@ -1,0 +1,8 @@
+App ID: 167993946715185
+
+App Secret: 
+e4ae3e8ed21d58783719151822e65922
+
+display name Leonzwtest
+
+url http://polar-mesa-4355.herokuapp.com
