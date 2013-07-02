@@ -10,7 +10,6 @@ mongo ds031948.mongolab.com:31948/zwamy -u leonzwamy -p zw12artistic
 
 user:{
          id:Integer, (primary_key)
-         name:String, (unique)
          email:String, (unique)
          first_name:String,
          last_name:String,
@@ -54,15 +53,6 @@ view_list:{
           datetime_created:String,
 }
 
-status:{
-   ## for cloud sync
-   id: Integer,
-   user: userID,
-   time_created: String,   (when the list starts to be played)
-   time_updated: String,    (when last update happened)
-   view_list: viewListID,
-   curr_image: imageID,
-}
 
 
 
@@ -89,5 +79,4 @@ index:{
    comment:integer,
    view_list:integer,
    client: integer,
-   status:integer,
 }
