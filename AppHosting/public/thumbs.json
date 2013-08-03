@@ -1,0 +1,9 @@
+{
+    "items": [
+        { "src": "./images/van_gogh_starry-small.jpg", "value": "van", "headerText": "Starry Night", "footerText": "Vincent van Gogh" },
+      { "src": "./images/GirlMet-small.jpg", "value": "van2", "headerText": "Girl in Gallery", "footerText": "Nancy Laube" },
+         { "src": "./images/monet_small.jpg", "value": "van3", "headerText": "Bridge", "footerText": "Claude Monet" },
+          { "src": "./images/renoir_gallette-small.jpg", "value4": "van", "headerText": "Gallette", "footerText": "Renoir" },
+                         { "src": "./images/toulouse_small.jpg", "value5": "van", "headerText": "Party" , "footerText": "Toulouse-Lautrec"}
+    ]
+}
